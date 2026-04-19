@@ -1,0 +1,10 @@
+title: BDPayments
+description: Bangladesh online payment methods - bKash, Nagad, Rocket, eSewa, Khalti.
+baseurl: "/bdpayments"
+url: "https://bb8bdt-ops.github.io"
+lang: bn
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
